@@ -292,18 +292,18 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"libraries/WBNB.sol": "WMTV"
+			"DexSwap/libraries/WBNB.sol": "WMTV"
 		},
 		"evmVersion": "byzantium",
 		"libraries": {},
 		"optimizer": {
-			"enabled": true,
+			"enabled": false,
 			"runs": 200
 		},
 		"remappings": []
 	},
 	"sources": {
-		"libraries/WBNB.sol": {
+		"DexSwap/libraries/WBNB.sol": {
 			"keccak256": "0xefe7a164b43d4cc491db0e51778d20a9829e9b841412a1559ac346b66e9cd3b6",
 			"urls": [
 				"bzzr://0896b9bc0309ab69d35389279f1770ed3a68334b2f738ed07238b44a3ba82730"
