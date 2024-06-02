@@ -1,16 +1,8 @@
-/**
- *Submitted for verification at BscScan.com on 2020-09-03
-*/
-
-/**
- *Submitted for verification at Bscscan.com on 2020-09-03
-*/
-
 pragma solidity ^0.4.18;
 
-contract WCREDIT {
-    string public name     = "Wrapped Credit";
-    string public symbol   = "WCREDIT";
+contract WZCD {
+    string public name     = "Wrapped ZCD";
+    string public symbol   = "WZCD";
     uint8  public decimals = 18;
 
     event  Approval(address indexed src, address indexed guy, uint wad);
