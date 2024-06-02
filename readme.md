@@ -8,3 +8,9 @@ Testnet
 - Multicall3: 0xC7F37132944Ef14042e275A17709F30892128776
 - USDZ: 0x9Af0c33a08C930eF15C4F40222CB3EfcB94C99B4
 - Pair WZCD/USDZ: 0x7Be616be1233F9386cc1583F5d304fD2E2BdaF72
+
+Graphnode
+
+- Blocks: https://graphnode.evmbuilder.com/subgraphs/name/zchaintestnetdex/blocks
+- Exchange: https://graphnode.evmbuilder.com/subgraphs/name/zchaintestnetdex/exchange
+- Pairs: https://graphnode.evmbuilder.com/subgraphs/name/zchaintestnetdex/pairs
