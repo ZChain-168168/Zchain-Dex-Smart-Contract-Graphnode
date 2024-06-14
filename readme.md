@@ -9,8 +9,26 @@ Testnet
 - USDZ: 0x9Af0c33a08C930eF15C4F40222CB3EfcB94C99B4
 - Pair WZCD/USDZ: 0x7Be616be1233F9386cc1583F5d304fD2E2BdaF72
 
-Graphnode
+Graphnode Testnet
 
 - Blocks: https://graphnode.evmbuilder.com/subgraphs/name/zchaintestnetdex/blocks
 - Exchange: https://graphnode.evmbuilder.com/subgraphs/name/zchaintestnetdex/exchange
 - Pairs: https://graphnode.evmbuilder.com/subgraphs/name/zchaintestnetdex/pairs
+
+
+Mainnet
+- WZCD: 0x8EF73631891FE90FF30813Fbc94c6858FCE5117d
+- Factory: 
+- INIT HASH: 
+- RouterV2: 
+- Multicall3: 
+- USDZ: 
+- Pair WZCD/USDZ: 
+
+Graphnode Mainnet
+
+- Blocks: https://graphnode.evmbuilder.com/subgraphs/name/zchaindex/blocks
+- Exchange: https://graphnode.evmbuilder.com/subgraphs/name/zchaindex/exchange
+- Pairs: https://graphnode.evmbuilder.com/subgraphs/name/zchaindex/pairs
+
+
