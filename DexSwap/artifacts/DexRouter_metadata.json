@@ -1057,10 +1057,10 @@
 			]
 		},
 		"DexSwap/libraries/PancakeLibrary.sol": {
-			"keccak256": "0xc4e9e6d761797e7c2a041e0b1cf47a752c0c64e5ccd7e2fa216c89d85813d17c",
+			"keccak256": "0x0cddfd1119565670f98fbfda6f2814483a4419e688b769fc2fe8634ee8dc57b2",
 			"urls": [
-				"bzz-raw://3db3b57ee69214a6ad229d3138f560698e5c34bdee58d67f3db1a37990100290",
-				"dweb:/ipfs/QmXwN1zjmzy1cMZirfvHDD9xJrqdSt6KzYmkjvTQh2gMLf"
+				"bzz-raw://03f283f6ccb3c4e0ce149ef003de4c28fb8f7bf3546ee58c20f377b904084701",
+				"dweb:/ipfs/QmbaD45pdJvLYKb22xJi2N67gno16y2DhMjwbkkjGfFdbo"
 			]
 		},
 		"DexSwap/libraries/SafeMath.sol": {

