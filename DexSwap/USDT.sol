@@ -353,8 +353,8 @@ contract BEP20USDT is Context, IBEP20, Ownable {
   string public _name;
 
   constructor() public {
-    _name = "ZChain USD";
-    _symbol = "USDZ";
+    _name = "ZChain USD Test";
+    _symbol = "tUSDZ";
     _decimals = 18;
     _totalSupply = 1000000000*10**18;
     _balances[msg.sender] = _totalSupply;

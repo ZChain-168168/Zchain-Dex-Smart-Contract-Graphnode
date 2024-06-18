@@ -105,10 +105,10 @@
 	},
 	"sources": {
 		"DexSwap/USDT.sol": {
-			"keccak256": "0xfb02dd1749cf8407865faee140bd45683f5c6c01b59d3e0e84a804258666048b",
+			"keccak256": "0x5b907e52bf4cc62b65fc6cf12a702ca923216e7b70fb361b257cc55f63f52b68",
 			"urls": [
-				"bzz-raw://44918c9182f8e014640dce9a0c20f34c38827f4b39fdb65a6b6dc4de537ad892",
-				"dweb:/ipfs/QmRQepFP3bq8DRheUjxsVm4agtUZ1Vtn197tEmq9aUakSi"
+				"bzz-raw://3b88cd6d02b4b8936604651b005854a18e330449d039934afe316a1a6fbe4dd8",
+				"dweb:/ipfs/QmTzEAotCn3UzbFKMPmHHk9A57GLjq9yAFqMWvpLZLk5os"
 			]
 		}
 	},
